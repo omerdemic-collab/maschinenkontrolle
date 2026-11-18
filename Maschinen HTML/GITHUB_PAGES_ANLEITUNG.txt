@@ -1,0 +1,14 @@
+GITHUB-PAGES-TEST
+
+1. Auf GitHub ein neues Repository erstellen, z. B. maschinenkontrolle-pwa.
+2. Alle entpackten Dateien direkt in das Repository hochladen.
+3. Settings -> Pages -> Deploy from a branch -> main -> /(root) -> Save.
+4. Warten, bis GitHub den Link anzeigt.
+5. Link auf dem iPhone direkt in Safari öffnen.
+6. Teilen -> Zum Home-Bildschirm -> Hinzufügen.
+7. Über das neue App-Symbol starten.
+8. Kontrollpaket importieren.
+9. Testkontrolle erfassen, App schließen und über das Symbol wieder öffnen.
+10. Handy-JSON sichern. Dann Flugmodus einschalten und Offline-Start testen.
+
+WICHTIG: Nur die entpackten App-Dateien hochladen. Keine Excel-/JSON-/Kataster-/Query-/Kontrolldateien auf GitHub ablegen.
